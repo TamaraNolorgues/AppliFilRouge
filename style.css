@@ -1,0 +1,27 @@
+
+
+
+thead { 
+    border: 2px solid black; 
+}
+
+
+th {
+    border: 2px solid black ;
+}
+
+
+tr {
+   border: 1px solid black;
+}
+   
+
+body { 
+text-align: center; 
+}
+
+
+footer {
+    background: #343a40;
+    padding: 10px;
+}
